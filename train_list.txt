@@ -1,0 +1,15 @@
+12675-KOVAI EXP-MGR Chennai Ctrl (MAS)-Coimbatore Jn (CBE)-3.00-13.00
+12679-COIMBATORE EXP-MGR Chennai Ctrl (MAS)-Coimbatore Jn (CBE)-10.00-17.00
+22637-WEST COAST EXP-MGR Chennai Ctrl (MAS)-Mangaluru Ctrl (MAQ)-17.00-1.00
+12639-BRINDAVAN EXP-MGR Chennai Ctrl (MAS)-Ksr Bengaluru (SBC)-4.00-133.00
+12671-NILAGIRI EXP-MGR Chennai Ctrl (MAS)-Metupalaiyam (MTP)-19.00-23.45
+34678-TML EXP-MGR Chennai Ctrl (MAS)-Katpadi-4.00-6.00
+
+Chennai,3.00,0-Arakkonam,4.00,50-Walajah Road,5.00,150-Katpadi,6.00,200-Ambur,7.00,250-Jolarpettai,8.00,300-Morappur,9.00,350-Salem,10.00,400-Erode,11.00,450-Tiruppur,12.00,500-Coimbatore,13.00,550-
+Chennai,10.00,0-Arakkonam,11.00,50-Katpadi,12.00,100-Salem,13.00,150-Erode,14.00,200-Tiruppur,15.00,250-Coimbatore Nrth,16.00,300-Coimbatore,17.00,350-
+Chennai,17.00,0-Arakkonam,18.00,50-Katpadi,19.00,100-Jolarpettai,20.00,150-Tirupattur,21.00,200-Morappur,22.00,250-Bommidi,23.00,300-Salem,0.00,350-Erode,1.00,400-Tiruppur,2.00,450-Coimbatore,3.00,500-Podanur,4.00,550-Palakkad,5.00,600-Ottapalam,6.00,650-Soranur,7.00,700-Kuttipuram,8.00,750-Mangalore,9.00,800-
+Chennai,4.00,0-Arakkonam,5.00,50-Sholingur,6.00,100-Walajah Road,7.00,150-Katpadi,8.00,200-Ambur,9.00,250-Vaniyambai,10.00,300-jolarpettai,11.00,350-Kuppam,12.00,400-Bnagalore,13.00,450-Ksr Bnagalore,14.00,500-
+Chennai,19.00,0-Arakkonam,20.00,50-Katpadi,21.00,150-Salem,22.00,200-Erode,23.00,250-Tiruppur,0.00,300-Coimbatore Nrth,1.00,350-Coimbatore,2.00,400-Mettupalayam,3.00,450-
+Chennai,4.00,0-Arakkonam,5.00,50-Katpadi,6.00,150-
+
+
